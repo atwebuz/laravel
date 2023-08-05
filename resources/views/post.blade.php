@@ -8,12 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <article>
-        <h1><a href="/post"> First post</a></h1>
-        <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores amet numquam ut inventore? Quidem voluptas aliquid hic cumque eius quae.
-        </p>
-    </article>
+    <?= $post; ?>
 
     <a href="/">Go Back</a>
 </body>

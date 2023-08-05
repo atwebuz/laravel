@@ -9,14 +9,14 @@
 </head>
 <body>
     <article>
-        <h1><a href="/post"> First post</a></h1>
+        <h1><a href="/posts/my-first-post"> First post</a></h1>
         <p>
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores amet numquam ut inventore? Quidem voluptas aliquid hic cumque eius quae.
         </p>
     </article>
 
     <article>
-        <h1><a href="/post"> Second post</a></h1>
+        <h1><a href="/posts/my-second-post"> Second post</a></h1>
         <p>
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores amet numquam ut inventore? Quidem voluptas aliquid hic cumque eius quae.
         </p>
