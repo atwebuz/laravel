@@ -1,0 +1,16 @@
+body{
+    background: white;
+    color: #000;
+    width: 100%;
+    overflow-x: hidden;
+}
+article{
+    width: 600px;
+    margin:40px auto;
+}
+article h1{
+    font-weight: bold;
+}
+article + article{
+ border-top: 3px solid black;
+}
