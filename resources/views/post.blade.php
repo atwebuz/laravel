@@ -8,8 +8,9 @@
     <title>Document</title>
 </head>
 <body>
-    <?= $post; ?>
+    <?= foreach ($posts as $post;) ?>
 
+    <?= endforeach ?>
     <a href="/">Go Back</a>
 </body>
 </body>
